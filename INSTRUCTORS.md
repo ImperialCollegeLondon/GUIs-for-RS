@@ -1,0 +1,10 @@
+# Instructors
+
+
+## Diego Alonso Alvarez
+
+Diego Alonso Álvarez is a physicist with 13 years of research experience in academia, including a PhD in semiconductor nanostructures and postdoctoral research on novel solar energy concepts and solar cells. He has learnt first-hand the value and difficulties of developing good software while doing research: his work has consistently involved software development for simulation, laboratory instrument control and outreach. Diego is a [Software Sustainability Institute Fellow](https://www.software.ac.uk/about/fellows/diego-alonso-alvarez) and member of the Society of Research Software Engineering, and is enthusiastic about promoting good coding practices among other researchers. He joined the [Research Software Engineering](http://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/research-software-engineering/) team at Imperial College London in November 2018 and has contributed to the [StrainMap](http://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/research-software-engineering/case-studies/) and [POWBAL](http://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/research-software-engineering/case-studies/) projects, amongst others.  
+
+## Mark Turner
+
+Mark Turner leads the Research Software Engineering team in the Digital Institute of the [Newcastle University](https://www.ncl.ac.uk/digitalinstitute/). The team focuses on delivering software engineering expertise for research projects across the university. He graduated with a BSc in Computing from Northumbria University in 2008 followed by an MSc from Newcastle University in 2012. In 2016 he was elected as a trustee for the [UK Research Software Engineering Association](https://society-rse.org/), contributing to the transformation of the association into a registered charity in 2018.

@@ -73,6 +73,7 @@ The second day of the workshop will be a hackathon to put into practice all the 
 </p>
 </details>
 
+
 ## Acknowledgements
 
 I would like to thank [Frances Cooper](https://www.francescooper.net/) and [Michel Steuwer](https://michel.steuwer.info/) (University of Glasgow) and [Louise Brown](https://www.nottingham.ac.uk/engineering/people/louise.brown) (University of Nottingham) for their invaluable support as local organizers, arranging the venue and helping me with all the in-situ administration.

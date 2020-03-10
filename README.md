@@ -4,7 +4,7 @@
 
 Research software has been a driving force behind the birth and rapid growth of informatics, but it was the appearance of graphical user interfaces (GUI) in the 1980s that made computers accessible to everyone. A GUI helps to reduce the learning curve for using software, increases the base of potential users and can ultimately increase citations and impact. Moreover, a well-designed GUI can perform validation and increase the robustness and reproducibility of the results, productively decoupling developers from users.
 
-The goal of these workshops is to help researchers lose their fear - or reluctance - to invest time developing a GUI for their research software, and help them to give those first steps in the development of graphical user interfaces.
+The goal of these workshops is to help developers lose their fear - or reluctance - to invest time creating a GUI for their research software, and help them to give those first steps in the development of graphical user interfaces. These workshops ara targeted to anyone who develops research software as part of their work, in any role, academic level and department.
 
 The creation and delivery of these workshops is possible only thanks to the [Software Sustainability institute Fellowship Programme 2020](https://www.software.ac.uk/programmes-and-events/fellowship-programme) and the strong support of the [RSE team at Imperial College London](http://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/research-software-engineering/).
 

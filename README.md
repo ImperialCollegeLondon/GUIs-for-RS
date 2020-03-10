@@ -8,6 +8,8 @@ The goal of these workshops is to help researchers lose their fear - or reluctan
 
 The creation and delivery of these workshops is possible only thanks to the [Software Sustainability institute Fellowship Programme 2020](https://www.software.ac.uk/programmes-and-events/fellowship-programme) and the strong support of the [RSE team at Imperial College London](http://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/research-software-engineering/).
 
+**Main instructor**: [Diego Alonso Álvarez](INSTRUCTORS.md#diego-alonso-alvarez)
+
 ## Confirmed Locations and Dates
 
 - University of Glasgow - 14th-15th April 2020 - [FREE REGISTRATION OPEN NOW!](https://guis_for_rs.eventbrite.co.uk)

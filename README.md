@@ -12,7 +12,7 @@ The creation and delivery of these workshops is possible only thanks to the [Sof
 
 ## Confirmed Locations and Dates
 
-- University of Glasgow - 14th-15th April 2020 - [FREE REGISTRATION OPEN NOW!](https://guis_for_rs.eventbrite.co.uk)
+- University of Glasgow - 14th-15th April 2020 - [FREE REGISTRATION OPENS ON THE 16th of MARCH!](https://guis_for_rs.eventbrite.co.uk)
 - University of Nottingham - 1st-2nd July 2020
 - Imperial College London - 23rd-24th September 2020
 

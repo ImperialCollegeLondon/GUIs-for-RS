@@ -12,9 +12,9 @@ The creation and delivery of these workshops is possible only thanks to the [Sof
 
 ## Confirmed Locations and Dates
 
-- University of Glasgow - POSTPONED!
-- University of Nottingham - 1st-2nd July 2020
-- Imperial College London - 23rd-24th September 2020
+- Online - 27th-29th April 2021
+- Online - 22nd-24th June 2021
+- TBC
 
 ## Syllabus
 
@@ -76,4 +76,4 @@ The second day of the workshop will be a hackathon to put into practice all the 
 
 ## Acknowledgements
 
-I would like to thank [Frances Cooper](https://www.francescooper.net/) and [Michel Steuwer](https://michel.steuwer.info/) (University of Glasgow) and [Louise Brown](https://www.nottingham.ac.uk/engineering/people/louise.brown) (University of Nottingham) for their invaluable support as local organizers, arranging the venue and helping me with all the in-situ administration.
+I would like to thank [Frances Cooper](https://www.francescooper.net/) and [Michel Steuwer](https://michel.steuwer.info/) (University of Glasgow) and [Louise Brown](https://www.nottingham.ac.uk/engineering/people/louise.brown) (University of Nottingham) for their invaluable initial support as local organizers when the events were planed to be in-person. This would not have been possible without you.

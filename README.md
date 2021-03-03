@@ -12,8 +12,8 @@ The creation and delivery of these workshops is possible only thanks to the [Sof
 
 ## Confirmed Locations and Dates
 
-- Online - 27th-29th April 2021
-- Online - 22nd-24th June 2021
+- Online - 27th-29th April 2021 - Registration not opened yet
+- Online - 22nd-24th June 2021 - Registration not opened yet
 - TBC
 
 ## Syllabus

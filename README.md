@@ -10,11 +10,28 @@ The creation and delivery of these workshops is possible only thanks to the [Sof
 
 **Main instructor**: [Diego Alonso Álvarez](INSTRUCTORS.md#diego-alonso-alvarez)
 
-## Confirmed Locations and Dates
+## Locations and Dates
 
-- Online - 27th-29th April 2021 - Registration not open yet
+- Online - 27th-29th April 2021 - [Registration via Eventbrite](https://guis4rs_april21.eventbrite.co.uk)
 - Online - 22nd-24th June 2021 - Registration not open yet
-- TBC
+- TBC - Autumn 2021 - Registration not open yet
+
+## Agenda
+
+The detailed agenda for the online events is to be defined but, tentatively, it will be:
+
+### Day 1 - 9:00-13:00
+- GUI for research software: Why are they relevant?
+- Introduction to interface design
+- Pitching projects for the hackday
+
+### Day 2 - 9:00-13:00
+- GUI Architectural patterns
+- GUI toolkits
+- Testing GUIs (time permitting)
+
+### Day 3 - 9:00-17:00
+- Hackday!
 
 ## Syllabus
 
@@ -51,7 +68,7 @@ As RSEs we’re always writing code, testing code and writing documentation abou
 
 **Lesson materials**: Not available, yet.
 
-So far, we have been discussing general GUI theory, broadly applicable to any programming language and GUI toolkit. The fact is that the choice of language - and once this is chosen, the specific GUI toolkit to use - will have an strong impact on the implementation of the architectural patterns and the flexibility in the UI/UX design. It might even condition altogether what you can and cannot do! In this lecture we will give and overview of some common GUI toolkits for Python, suitable for desktop, mobile and web applications, discussing their pros and cons.
+So far, we have been discussing general GUI theory, broadly applicable to any programming language and GUI toolkit. The fact is that the choice of language - and once this is chosen, the specific GUI toolkit to use - will have a strong impact on the implementation of the architectural patterns and the flexibility in the UI/UX design. It might even condition altogether what you can and cannot do! In this lecture we will give and overview of some common GUI toolkits for Python, suitable for desktop, mobile and web applications, discussing their pros and cons.
 
 **Note**: Despite the examples being focussed on Python, many of these GUI toolkits are available with similar API and functionality in other programming languages. As a result, non-Python users will still benefit from the contents of this lecture.
 </p>
@@ -62,14 +79,14 @@ So far, we have been discussing general GUI theory, broadly applicable to any pr
 
 **Lesson materials**: Not available, yet.
 
-Testing your code and, ideally, implementing a CI/CD system is a must in any software project. And GUIs are no exception. But being GUIs dependent on displaying some graphics and having a user interacting with the different elements makes this automatic testing slightly more challenging. In this final lecture of the course we will give some guidelines on how this testing can be accomplish, what aspects of the GUI should be check and which ones should rely on the GUI toolkit developers having done a good testing job on their side.
+Testing your code and, ideally, implementing a CI/CD system is a must in any software project. And GUIs are no exception. But being GUIs dependent on displaying some graphics and having a user interacting with the different elements makes this automatic testing slightly more challenging. In this final lecture of the course we will give some guidelines on how this testing can be accomplished, what aspects of the GUI should be check and which ones should rely on the GUI toolkit developers having done a good testing job on their side.
 </p>
 </details>
 
 <details><summary>6. Hackday!</summary>
 <p>
 
-The second day of the workshop will be a hackathon to put into practice all the ideas and discussions of the day before! Working in teams, the attendees will lay some concrete plans and give the first steps to develop a GUI for the software of their choice. This can be a pice of code related to a projects they are already working on or something completely external to their own work. There will be pitches for the proposed projects by the end of the first day.
+The second day of the workshop will be a hackathon to put into practice all the ideas and discussions of the day before! Working in teams, the attendees will lay some concrete plans and give the first steps to develop a GUI for the software of their choice. This can be a piece of code related to a project they are already working on or something completely external to their own work. There will be pitches for the proposed projects by the end of the first day.
 </p>
 </details>
 

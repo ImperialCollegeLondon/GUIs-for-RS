@@ -86,7 +86,7 @@ Testing your code and, ideally, implementing a CI/CD system is a must in any sof
 <details><summary>6. Hackday!</summary>
 <p>
 
-The second day of the workshop will be a hackathon to put into practice all the ideas and discussions of the day before! Working in teams, the attendees will lay some concrete plans and give the first steps to develop a GUI for the software of their choice. This can be a piece of code related to a project they are already working on or something completely external to their own work. There will be pitches for the proposed projects by the end of the first day.
+The last day of the workshop will be a hackathon to put into practice all the ideas and discussions of the day before! Working in teams, the attendees will lay some concrete plans and give the first steps to develop a GUI for the software of their choice. This can be a piece of code related to a project they are already working on or something completely external to their own work. There will be pitches for the proposed projects by the end of the first day.
 </p>
 </details>
 

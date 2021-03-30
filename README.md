@@ -47,7 +47,7 @@ Research software (RS) is designed to facilitate answering research questions, a
 <details><summary>2. Introduction to interface design</summary>
 <p>
 
-**(Glasgow) Guest lecture by**: [Mark Turner](INSTRUCTORS.md#mark-turner)
+**Guest lecture by**: [Mark Turner](INSTRUCTORS.md#mark-turner)
 **Lesson materials**: Not available, yet.
 
 As RSEs we’re always writing code, testing code and writing documentation about that code. However, every so often we have to build something that has a user interface. All of a sudden you’re not just a programmer and a database engineer but a UI/UX designer too. For those who find the world of UI/UX design a little challenging, this talk will introduce simple core concepts that form the basis of a well-designed, useful, maybe even aesthetically pleasing user interfaces. These concepts are transferable across programming languages, the web and even onto printed materials and slide decks. Hopefully by picking up a few tips of what to do, and what not to do, everyone’s user interfaces will be a little easier to use, and maybe even a little better to look at.

@@ -22,7 +22,7 @@ The detailed agenda for the online events is to be defined but, tentatively, it 
 
 ### Day 1 - 9:00-13:00
 - GUI for research software: Why are they relevant?
-- Introduction to interface design
+- Introduction to interface design (by [Mark Turner](INSTRUCTORS.md#mark-turner))
 - Pitching projects for the hackday
 
 ### Day 2 - 9:00-13:00

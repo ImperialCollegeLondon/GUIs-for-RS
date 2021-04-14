@@ -14,7 +14,7 @@ The creation and delivery of these workshops is possible only thanks to the [Sof
 
 - Online - 27th-29th April 2021 - [Registration via Eventbrite](https://guis4rs_april21.eventbrite.co.uk)
 - Online - 22nd-24th June 2021 - [Registration opens May 4th (be with you...)](https://guis4rs_june21.eventbrite.co.uk)
-- TBC - Autumn 2021 - Registration not open yet
+- TBC - Q4 2021 - Registration not open yet
 
 ## Agenda
 

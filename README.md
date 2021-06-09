@@ -13,23 +13,25 @@ The creation and delivery of these workshops is possible only thanks to the [Sof
 ## Locations and Dates
 
 - Online - 27th-29th April 2021 - This event is finished!
-- Online - 22nd-24th June 2021 - [Registration opens May 4th (be with you...)](https://guis4rs_june21.eventbrite.co.uk)
+- Online - 22nd-24th June 2021 - [Registration via Eventbrite](https://guis4rs_june21.eventbrite.co.uk)
 - TBC - Q4 2021 - Registration not open yet
 
 ## Agenda
 
-### Day 1 - 9:00-13:00
+### Day 1 - 9:00-13:30
 - [GUI for research software: Why are they relevant?](https://doi.org/10.5281/zenodo.4722578)
 - [Introduction to interface design](https://github.com/markdturner/markdturner/raw/main/presentations/UI%20Design.pdf) (by [Mark Turner](INSTRUCTORS.md#mark-turner))
-- Pitching projects for the hackday
+- **Hands-on session**: Wireframing
 
-### Day 2 - 9:00-13:00
+### Day 2 - 9:00-13:30
 - [GUI Architectural patterns and other peculiarities of developing GUIs](https://doi.org/10.5281/zenodo.4724518)
 - [GUI toolkits for Python (and beyond)](https://doi.org/10.5281/zenodo.4724592)
 - [Testing GUIs and packaging](https://doi.org/10.5281/zenodo.4724961)
+- **Hands-on session**: Simple GUI examples
 
 ### Day 3 - 9:00-17:00
-- Hackday!
+- Pitching projects
+- Hack!
 
 ## Syllabus
 
@@ -84,7 +86,7 @@ The final part of the workshop address the testing of applications featuring GUI
 <details><summary>6. Hackday!</summary>
 <p>
 
-The last day of the workshop will be a hackathon to put into practice all the ideas and discussions of the day before! Working in teams, the attendees will lay some concrete plans and give the first steps to develop a GUI for the software of their choice. This can be a piece of code related to a project they are already working on or something completely external to their own work. There will be pitches for the proposed projects by the end of the first day.
+The last day of the workshop will be a hackathon to put into practice all the ideas and discussions of the day before! Working in teams, the attendees will lay some concrete plans and give the first steps to develop a GUI for the software of their choice, create the wireframes and, possibly, some flow diagrams. This can be a piece of code related to a project they are already working on or something completely external to their own work. There will be pitches for the proposed projects at the start of the day.
 </p>
 </details>
 

@@ -14,7 +14,7 @@ The creation and delivery of these workshops is possible only thanks to the [Sof
 
 - Online - 27th-29th April 2021 - This event is finished!
 - Online - 22nd-24th June 2021 - This event is finished!
-- Online - 26th-28th October 2021 - [Registration via Eventbrite](https://guis4rs_october21.eventbrite.co.uk)
+- Online - 26th-28th October 2021 - This event is finished!
 
 ## Agenda
 
